@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008014934533",
+    "project_id": "neat-mechanic-404318",
+    "storage_bucket": "neat-mechanic-404318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008014934533:android:5689e5bc5d0d8a5e8c926c",
+        "android_client_info": {
+          "package_name": "com.sociallogindiscovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008014934533-1h05iqaksur7t07sr0aoi5baq11gomuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sociallogindiscovery",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1008014934533-kbvijbp3e328c1gpnd5oi9dhtb9jht7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMW-3_Ian3I_QVI9nGV9Y742ov2NMpYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008014934533-kbvijbp3e328c1gpnd5oi9dhtb9jht7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
